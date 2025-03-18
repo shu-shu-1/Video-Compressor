@@ -1,3 +1,4 @@
+![logo](./icon.ico)
 # Video Compressor | 视频压缩器
 A video compression project based on ffmpeg can achieve almost lossless compression.
 
